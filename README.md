@@ -2,9 +2,9 @@
 
 > A production fleet-maintenance command center connecting Samsara mileage, Supabase operational data, Telegram driver workflows, and Vercel-hosted automation.
 
-[Open the production application](https://swoop-jarvis.vercel.app/) · [Return to the portfolio](../../README.md)
+[Open the production application](https://swoop-jarvis.vercel.app/) · [Return to the portfolio](https://github.com/Presidentkoko/web-port)
 
-![Fleet overview](../../assets/images/avengers-dashboard/overview.png)
+![Fleet overview](overview.png)
 
 ## Overview
 
@@ -259,15 +259,15 @@ The application uses the platform for deployment and scheduled orchestration; th
 
 ### Fleet health and synchronization coverage
 
-![Fleet dashboard summary](../../assets/images/avengers-dashboard/overview.png)
+![Fleet dashboard summary](overview.png)
 
 ### Connected services and execution policy
 
-![Supabase, Samsara, and Telegram integration health](../../assets/images/avengers-dashboard/integrations.png)
+![Supabase, Samsara, and Telegram integration health](integrations.png)
 
 ### Telegram notification and duplicate-suppression reporting
 
-![Telegram notification dashboard](../../assets/images/avengers-dashboard/notifications.png)
+![Telegram notification dashboard](notifications.png)
 
 The screenshots are cropped from the authenticated production interface. Vehicle-level records, recipient identifiers, and all secret values are intentionally omitted.
 
